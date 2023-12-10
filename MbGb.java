@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.util.*;
 
-public class MgGb {
+public class MbGb {
     public static void main(String a[])
     {
         float mb,gb;
